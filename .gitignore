@@ -1,2 +1,9 @@
 # Project exclude paths
 /venv/
+/dist/
+/build/
+/basedcrunch.egginfo/
+./test.py
+./targets.txt
+./intest.lst
+./geckodriver.log
