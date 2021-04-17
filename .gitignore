@@ -2,7 +2,7 @@
 /venv/
 /dist/
 /build/
-/basedcrunch.egginfo/
+/basedcrunch.egg-info/
 ./test.py
 ./targets.txt
 ./intest.lst
